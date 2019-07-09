@@ -1,0 +1,6 @@
+.detail-desc, .detail-prod {
+    display: inline-block;
+    width: 300px;
+    font-size: 16px;
+    vertical-align: top
+}
