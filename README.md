@@ -1,27 +1,12 @@
-# APM
+# What I learned
+This repository represents a finished sample web application from the course 'Angular: Getting Started' from Pluralsight.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+I was building this app while watching the course, coding along with the author. Some of the things I learned include:
+- Basic Angular concepts and building blocks, such as components, modules, dependency injection, interpolation etc.
+- How to use the angular CLI to create a new project, generate new modules, guards, components and more, test and deploy the web app.
+- I learnt to use pipes and create a custom pipe, one-way and two-way binding, how to use ngIf and ngFor.
+- How to nest components and pass data to and from the nested component using @Input and @Output.
+- I was introduced to the concept of dependency injection and how to use it in Angular.
+- How to send an HTTP request, subscribe to an observable, use lifecycle hooks and handle exceptions if the HTTP request doesn't succeed.
+- I learnt how routing works, how to configure routes and tie them to actions, pass parameters to a route and activate a route with code.
+- I discovered the guards concept and how to protect a route with a guard.
